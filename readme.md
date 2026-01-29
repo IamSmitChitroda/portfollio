@@ -2,7 +2,7 @@ I previously created an portfolio for Smit Chitroda with the following design sp
 - Dark theme with glassmorphism effects (translucent cards with backdrop blur)
 - Animated gradient background with floating shapes that respond to mouse movement
 - Color scheme: Indigo (#6366f1), Cyan (#06b6d4), and Purple (#8b5cf6) accents against dark slate background
-- Sections: Hero (with animated profile card), Skills Grid (6 category cards), Projects Grid (3 project cards with highlights), Education/Certifications, and Contact
+- Sections: Hero (with animated profile card), Skills Grid (category cards), Projects Grid (project cards with highlights), Education/Certifications, and Contact
 - Mobile-responsive with smooth scroll animations and hover effects
 - Professional, modern, tech-focused aesthetic suitable for AI/ML roles
 
